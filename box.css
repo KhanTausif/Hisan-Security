@@ -1,0 +1,24 @@
+.content-box {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background: url('images/blogbg.jpg');
+  /* Add any additional styling you want */
+}
+
+.content-box h2 {
+  color: #000;
+       text-shadow:  -1px -1px 0 #000,
+
+
+  /* Style your heading */
+}
+
+.content-box h3 {
+  color: #000;
+       text-shadow:  -1px -1px 0 #000,
+
+}
+  /* Style your paragraph text */
+}
